@@ -2,6 +2,7 @@
 
 CodeHub is a platform dedicated to providing technology-based knowledge, tech fun, coding resources, contests, and practice opportunities. It serves as a hub for programmers, developers, and coding enthusiasts to learn, collaborate, and enhance their coding skills.
 
+live at : https://87abdul.github.io/CodeHub/
 ## Features
 
 - Comprehensive learning resources on various technologies, programming languages, and frameworks.
